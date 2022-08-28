@@ -4,7 +4,7 @@
 
 {{date.DATA}} 
 
-早上好，宝贝
+早上好,宝贝
 
 地区：{{region.DATA}} 
 
