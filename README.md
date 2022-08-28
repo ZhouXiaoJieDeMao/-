@@ -4,6 +4,8 @@
 
 {{date.DATA}} 
 
+早上好，宝贝
+
 地区：{{region.DATA}} 
 
 天气：{{weather.DATA}} 
